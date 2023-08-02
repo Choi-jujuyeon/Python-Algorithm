@@ -1,0 +1,7 @@
+.config
+venv
+.replit
+replit.nix
+.upm
+main.py
+Greedy/__pycache__
